@@ -3,5 +3,5 @@
 cilicili www.cilicili.me
 
 # 影视
-南瓜影视 <www.nangua5.com>  
-美剧星球 <meijuxingqiu.com>
+南瓜影视 www.nangua5.com  
+美剧星球 meijuxingqiu.com
